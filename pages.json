@@ -1,0 +1,78 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "Table"
+		}
+	}, {
+		"path": "pages/sweet/index",
+		"style": {
+			"navigationBarTitleText": "Sweet"
+		}
+	}, {
+		"path": "pages/sweet/waterMark",
+		"style": {
+			// "navigationStyle": "custom"
+			"navigationBarTitleText": ""
+		}
+	}, {
+		"path": "pages/inbox/index",
+		"style": {
+			"navigationBarTitleText": "Inbox"
+		}
+	}, {
+		"path": "pages/inbox/chat/index",
+		"style": {
+			"navigationBarTitleText": "Chat"
+			// "navigationStyle": "custom"
+		}
+	}, {
+		"path": "pages/about/copytable",
+		"style": {
+			"navigationBarTitleText": "复制粘贴"
+		}
+	}, {
+		"path": "pages/about/canvasImg",
+		"style": {
+			"navigationBarTitleText": "画布基础"
+		}
+	}, {
+		"path": "pages/about/selectCanvasImg",
+		"style": {
+			"navigationBarTitleText": "水印图片"
+		}
+	}, {
+		"path": "pages/about/cameraWaterCanvas",
+		"style": {
+			"navigationBarTitleText": "水印相机"
+		}
+	}, {
+		"path": "pages/about/menusSwitch",
+		"style": {
+			"navigationBarTitleText": "导航切换"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#c8c7cc",
+		"selectedColor": "#7b6bff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "Table"
+		}, {
+			"pagePath": "pages/inbox/index",
+			"text": "Inbox"
+		}, {
+			"pagePath": "pages/sweet/index",
+			"text": "Sweet"
+		}]
+	}
+}
