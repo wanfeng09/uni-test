@@ -67,7 +67,7 @@
 	
 	// 获取当前地址
 	function getLocation() {
-		canvas.address = '广东省广州市白云区测地址'
+		canvas.address = '广东省xxxxxxxxxx'
 		LocationFlag.value = true
 	}
 	

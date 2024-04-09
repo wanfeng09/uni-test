@@ -12,6 +12,9 @@
 		<navigator url="/pages/about/cameraWaterCanvas" hover-class="navigator-hover" style="margin-top: 30rpx;">
 			<button type="primary">水印相机</button>
 		</navigator>
+		<navigator url="/pages/about/lottery" hover-class="navigator-hover" style="margin-top: 30rpx;">
+			<button type="primary">抽奖</button>
+		</navigator>
 	<!-- 	<navigator url="/pages/about/menusSwitch" hover-class="navigator-hover" style="margin-top: 30rpx;">
 			<button type="primary">导航切换组件</button>
 		</navigator> -->

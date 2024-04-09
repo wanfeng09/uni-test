@@ -51,6 +51,11 @@
 		"style": {
 			"navigationBarTitleText": "导航切换"
 		}
+	}, {
+		"path": "pages/about/lottery",
+		"style": {
+			"navigationBarTitleText": "抽奖页面"
+		}
 	}],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
